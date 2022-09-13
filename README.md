@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+Dynamic-list-of-post
 
-To use this template click `Use this template`
+Technologies used: React, TypeScript, JS, Sass, HTML, BEM
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+-[DEMO LINK](https://dashasm.github.io/dynamic-list-of-todos/)
